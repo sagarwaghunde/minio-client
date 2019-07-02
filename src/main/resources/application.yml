@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: http://localhost:9000
+  accessKey: MV2F1EMKAPQ2WVWSOAD4
+  secretKey: bjzmKsHqhr+kbv8JuEO2jOGnwhG03lK5vHM+YEcq
+  bucketName: demo
